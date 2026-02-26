@@ -80,27 +80,21 @@ An interactive chatbot built using modern Large Language Model frameworks. It su
 
 **Technologies Used:** Python, LangChain, LangGraph, Hugging Face, Streamlit
 
-🔗 **Repository:** [View Project](https://github.com/your-username/qa-chatbot)
+🔗 **Repository:** [View Project](https://github.com/FahimFM06/Q-and-A-Chatbot)  
+🌐 **Live Demo:** [Link](https://chatbot-cdb8appvfzeedfhbbwgxw2v.streamlit.app/)
 
-📸 **Screenshots:**
-<p align="center">
-  <img src="assets/chatbot_ui.png" width="700">
-</p>
 
 ---
 
-### 🩺 Pneumonia Detection from Chest X-rays (Medical AI + XAI)
+### 🤖 AI vs Human Text Detection (BiLSTM + LIME + Streamlit)
 
-A medical image classification project that detects pneumonia from chest X-ray images. I trained deep learning models and used explainable AI tools to highlight important regions in the image.
+A text classification system that predicts whether a given text is **human-written** or **AI-generated**. It compares multiple feature approaches (TF-IDF, Word2Vec, transformers) and selects a strong BiLSTM model, with **LIME** added to explain which words influenced the prediction.
 
-**Technologies Used:** TensorFlow, Keras, CNN, LIME, SHAP, Grad-CAM
+**Technologies Used:** Python, TensorFlow/Keras, BiLSTM, Word2Vec, TF-IDF, LIME, Streamlit
 
-🔗 **Repository:** [View Project](https://github.com/your-username/pneumonia-detection)
+🔗 **Repository:** [View Project](https://github.com/FahimFM06/AI-vs-Human-Detection)  
+🌐 **Live Demo:** [Link](https://kgtalyuz6zshlndvzgzzqz.streamlit.app/)
 
-📸 **Screenshots:**
-<p align="center">
-  <img src="assets/pneumonia_output.png" width="700">
-</p>
 
 ---
 
@@ -110,24 +104,19 @@ This project detects seizure onset and offset from EEG signals using deep learni
 
 **Technologies Used:** Python, PyTorch, CNN, BiLSTM, Attention, SHAP, Grad-CAM
 
-🔗 **Repository:** [View Project](https://github.com/your-username/eeg-seizure-detection)
+🔗 **Repository:** [View Project](https://github.com/FahimFM06/EEG-Seizure-Onset-Offset-Detection-with-Explainable-Al)
 
-📸 **Screenshots:**
-<p align="center">
-  <img src="assets/eeg_model.png" width="700">
-</p>
+
 
 ---
 
 ### 📰 Fake News Detection (Transformer-Based NLP)
 
-A deep learning project that detects whether a news article is real or fake using transformer models. I fine-tuned state-of-the-art models and built a simple web app where users can test news content in real time.
+A deep learning project that detects whether a news article is real or fake using transformer models. I fine-tuned state-of-the-art transformer models and built an interactive web application where users can test news content in real time and view prediction confidence.
 
 **Technologies Used:** Python, PyTorch, Hugging Face Transformers, Streamlit, Captum (Explainability)
 
-🔗 **Repository:** [View Project](https://github.com/your-username/fake-news-detection)
+🔗 **Repository:** [View Project](https://github.com/FahimFM06/Fake-News-Detection)  
+🌐 **Live Demo:** [Link](https://fake-news-detection-7c9ygqy3olqkfqfgdzzuxb.streamlit.app/)
 
-📸 **Screenshots:**
-<p align="center">
-  <img src="assets/fake_news_1.png" width="700">
-</p>
+
