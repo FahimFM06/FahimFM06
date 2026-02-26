@@ -1,3 +1,8 @@
+## 👨‍💻 About Me
+
+I am a Machine Learning and Generative AI enthusiast with a research-driven focus on Large Language Models and deep learning. My work explores building scalable, interpretable, and high-performance AI systems for real-world applications. I have hands-on experience with Python, PyTorch, TensorFlow, and modern LLM frameworks such as Hugging Face and LangChain. I am particularly interested in bridging advanced AI research with practical deployment.
+
+
 ## 💻 Skills
 
 ### 🧠 Programming Languages
