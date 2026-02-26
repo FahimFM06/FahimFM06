@@ -69,3 +69,65 @@ I am a Machine Learning and Generative AI enthusiast with a research-driven focu
 ![Bengali](https://img.shields.io/badge/Bengali-Native-green?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
 ![German](https://img.shields.io/badge/German-A2-orange?style=for-the-badge)
+
+## 🚀 Featured Projects
+
+---
+
+### 💬 AI Q&A Chatbot (LLM + LangChain)
+
+An interactive chatbot built using modern Large Language Model frameworks. It supports conversation memory and allows users to adjust generation settings for better responses.
+
+**Technologies Used:** Python, LangChain, LangGraph, Hugging Face, Streamlit
+
+🔗 **Repository:** [View Project](https://github.com/your-username/qa-chatbot)
+
+📸 **Screenshots:**
+<p align="center">
+  <img src="assets/chatbot_ui.png" width="700">
+</p>
+
+---
+
+### 🩺 Pneumonia Detection from Chest X-rays (Medical AI + XAI)
+
+A medical image classification project that detects pneumonia from chest X-ray images. I trained deep learning models and used explainable AI tools to highlight important regions in the image.
+
+**Technologies Used:** TensorFlow, Keras, CNN, LIME, SHAP, Grad-CAM
+
+🔗 **Repository:** [View Project](https://github.com/your-username/pneumonia-detection)
+
+📸 **Screenshots:**
+<p align="center">
+  <img src="assets/pneumonia_output.png" width="700">
+</p>
+
+---
+
+### 🧠 EEG Seizure Detection (CNN–BiLSTM + XAI)
+
+This project detects seizure onset and offset from EEG signals using deep learning. I combined CNN and BiLSTM with attention mechanisms and added explainability techniques to understand how the model makes decisions.
+
+**Technologies Used:** Python, PyTorch, CNN, BiLSTM, Attention, SHAP, Grad-CAM
+
+🔗 **Repository:** [View Project](https://github.com/your-username/eeg-seizure-detection)
+
+📸 **Screenshots:**
+<p align="center">
+  <img src="assets/eeg_model.png" width="700">
+</p>
+
+---
+
+### 📰 Fake News Detection (Transformer-Based NLP)
+
+A deep learning project that detects whether a news article is real or fake using transformer models. I fine-tuned state-of-the-art models and built a simple web app where users can test news content in real time.
+
+**Technologies Used:** Python, PyTorch, Hugging Face Transformers, Streamlit, Captum (Explainability)
+
+🔗 **Repository:** [View Project](https://github.com/your-username/fake-news-detection)
+
+📸 **Screenshots:**
+<p align="center">
+  <img src="assets/fake_news_1.png" width="700">
+</p>
